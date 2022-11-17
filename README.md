@@ -11,3 +11,4 @@
 10. Reiniciar equipo
 11. Construir imagen usuario: (dentro de la carpeta pag1) docker build -t usuario pag2/
 12. Iniciar aplicacion: (dentro de la carpeta pag1) python3 pag1.py
+13. Ingresar a localhost:8080
